@@ -1,0 +1,23 @@
+{
+  "name": "stevens-connect-socket-data",
+  "version": "1.0.0",
+  "description": "Node.js Socket.io server for receiving data from Stevens Connect",
+  "main": "app.js",
+  "scripts": {
+		"start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevensWater/stevens-connect-socket-data.git"
+  },
+  "author": "Mike <mkuvelas@stevenswater.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevensWater/stevens-connect-socket-data/issues"
+  },
+  "homepage": "https://github.com/StevensWater/stevens-connect-socket-data#readme",
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  }
+}
